@@ -1,3 +1,3 @@
-a=4
-b=2
+a=int(input("enter first no: "))
+b=int(input("enter second no: "))
 print(a*b)
